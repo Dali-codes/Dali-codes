@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi! I´m Dalila 👋 
 
-<!--
-**Dali-codes/Dali-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/Dali-codes/Dali-codes/blob/main/BRINGING%20IDEAS%20TO%20LIFE%20(1).png">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Coming from a corporate background, I´m currently working on my transition into tech. 
+<p>:computer: Developing front-end development skills during my second round of #100daysofcode</p>  
+<p>:heart: CSS and JavaScript</p>
+<p>:thumbsup: Brainstorming, translating feedback into ideas and contributing to building solutions in a team</p>
+<p>:raised_hands: Any feedback on my code is very much appreciated.</p>
+<p>:fire: Let´s code!</p>
+
+
