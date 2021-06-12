@@ -4,7 +4,7 @@ Hi! I´m Dalila 👋
 
 
 <p>Coming from a corporate background, I´m currently working on my transition into tech. 
-<p>:computer: Developing front-end development skills during my second round of #100daysofcode</p>  
+<p>:computer: Developing front-end development skills</p>  
 <p>:heart: CSS and JavaScript</p>
 <p>:thumbsup: Brainstorming, translating feedback into ideas and contributing to building solutions in a team</p>
 <p>:raised_hands: Any feedback on my code is very much appreciated.</p>
