@@ -1,13 +1,17 @@
-Hi! I´m Dalila 👋 
+Hi! I´m Dalila 👋 Welcome to my page!
 
-<img src="https://github.com/Dali-codes/Dali-codes/blob/main/BRINGING%20IDEAS%20TO%20LIFE%20(1).png">
+![bringing ideas to life (2)](https://user-images.githubusercontent.com/56134527/197343261-cbb5d360-53ef-4481-8b66-9cfe365caa62.png)
 
+I´m a scrimba student completing the frontend developer path, and I love JavaScript to bring ideas to life! 
 
-<p>Coming from a corporate background, I´m currently working on my transition into tech. 
-<p>:computer: Developing front-end development skills</p>  
-<p>:heart: CSS and JavaScript</p>
-<p>:thumbsup: Brainstorming, translating feedback into ideas and contributing to building solutions in a team</p>
-<p>:raised_hands: Any feedback on my code is very much appreciated.</p>
-<p>:fire: Let´s code!</p>
+:computer: Developing front-end skills.  
+
+:heart: CSS and JavaScript.
+
+:thumbsup: Brainstorming, translating feedback into ideas and contributing to building solutions in a team.
+
+:raised_hands: Any feedback on my code is very much appreciated.
+
+:fire: Let´s colaborate & let´s code together!
 
 
